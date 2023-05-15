@@ -1,0 +1,17 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    kamalchibrani:
+      email: kchibrani@gmail.com
+      name: Kamal Chibrani
+      password: $2b$12$dmB7rY1WGlbIjPsE0HjljuUx1Qs.4248nrTyyIxoefzzLzrd19R4e
+    snehasan:
+      email: snehasantosh301@gmail.com
+      name: Sneha Santosh
+      password: $2b$12$8IpGrqhOAorU6g26RiRAjuorFwnmde13m494nqEg08d9XgEiAMfVe
+preauthorized:
+  emails:
+  - kchibrani@gmail.com
